@@ -1,0 +1,6 @@
+﻿services:
+  ecommerceapp:
+    image: ecommerceapp
+    build:
+      context: .
+      dockerfile: ECommerceApp/Dockerfile
