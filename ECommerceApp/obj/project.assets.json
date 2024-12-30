@@ -86,7 +86,6 @@
       "packagesPath": "/Users/enessagiroglu/.nuget/packages/",
       "outputPath": "/Users/enessagiroglu/Documents/Projects/C#/ECommerceApp/ECommerceApp/obj/",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/enessagiroglu/.nuget/NuGet/NuGet.Config"
       ],
@@ -111,7 +110,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
